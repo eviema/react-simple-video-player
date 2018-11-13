@@ -1,4 +1,4 @@
-# simple-video-player
+# react-simple-video-player
 A simple video player that allows for searching and viewing real YouTube videos, without using redux yet
 
 ### Getting Started
@@ -6,7 +6,7 @@ A simple video player that allows for searching and viewing real YouTube videos,
 Clone this repo, install dependencies, then start the gulp process with the following:
 
 ```
-> cd simple-video-player
+> cd react-simple-video-player
 > npm install
 > npm start
 ```
